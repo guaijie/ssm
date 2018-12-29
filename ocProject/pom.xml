@@ -12,7 +12,7 @@
         <module>../ocCommon</module>
         <module>../ocPortal</module>
         <module>../ocWechat</module>
-        <module>../ocOperation</module>
+        <module>../ocOperator</module>
         <module>../ocService</module>
     </modules>
 
